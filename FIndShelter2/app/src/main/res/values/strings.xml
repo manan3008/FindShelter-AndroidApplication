@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Find Shelter</string>
+    <string name="shelter_name_label">Shelter Name</string>
+    <string name="shelter_address_label">Address</string>
+    <string name="shelter_suburb_label">Suburb</string>
+    <string name="shelter_phone_label">Phone</string>
+    <string name="shelter_email_label">Email</string>
+    <string name="shelter_email_button">Email Shelter</string>
+    <string name="shelter_map_button">View in Map</string>
+    <string name="shelter_details_load_error">Error loading shelter details</string>
+    <string name="title_activity_maps">Find Shelter</string>
+    <string name="email_title">Accomodation request</string>
+    <string name="email_message">I would like to request accommodation for tonight at</string>
+</resources>
