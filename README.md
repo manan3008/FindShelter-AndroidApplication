@@ -14,6 +14,8 @@ The FindShelter application is designed to help users find accommodation in shel
 
 ## Features
 
+![image](https://github.com/manan3008/FindShelter-AndroidApplication/assets/68306893/231e8938-6eb6-488a-9fdc-fab5045d3c6c)
+
 ### Database Integration
 
 - Utilize Room and LiveData for local database integration.
